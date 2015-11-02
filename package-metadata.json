@@ -1,5 +1,5 @@
 {
-"url": "https://github.com/julux/EasyCatalogSublime", 
+"url": "https://github.com/julux/EasyCatalog", 
 "platforms": ["*"], 
 "dependencies": [], 
 "sublime_text": "*", 
