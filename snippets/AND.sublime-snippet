@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[AND(${1:field},${2:field})]]></content>
 	<tabTrigger>AND</tabTrigger>  
-	<description>Easycatalog AND(field1,field2)</description>
+	<description>EasyCatalog AND(field1,field2)</description>
 	<scope>source.ecc</scope>
 </snippet>
