@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[MUL(${1:field},${2:field})]]></content>
 	<tabTrigger>MUL</tabTrigger>  
-	<description>Easycatalog MUL(arg1,arg2,arg3...)</description>
+	<description>EasyCatalog MUL(arg1,arg2,arg3...)</description>
 	<scope>source.ecc</scope>
 </snippet>
