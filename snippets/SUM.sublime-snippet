@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SUM(${1:field},${1:field})]]></content>
+	<tabTrigger>SUM</tabTrigger>  
+	<description>Easycatalog SUM(arg1,arg2,arg3...)</description>
+	<scope>source.ecc</scope>
+</snippet>
