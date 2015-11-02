@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SUBSTR(FIELDSTR(${1:field}),${2:CaractereBegin},${3:CaractereEnd})]]></content>
+	<tabTrigger>SUBSTR</tabTrigger>  
+	<description>Easycatalog SUSTR(field1,begin,end)</description>
+	<scope>source.ecc</scope>
+</snippet>
