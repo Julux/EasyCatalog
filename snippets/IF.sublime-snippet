@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[IF(FIELDSTR(${1:field}),${2:operator},${3:Expression},${4:IFconditionTRUE},${5:IFConditionFALSE})]]></content>
+	<content><![CDATA[IF(FIELDSTR(${1:field}),${2:operator},${3:Expression},${4:ifTRUE},${5:ifFALSE})]]></content>
 	<tabTrigger>IF</tabTrigger>  
 	<description>EasyCatalog IF(,,,)</description>
 	<scope>source.ecc</scope>
