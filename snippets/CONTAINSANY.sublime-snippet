@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[CONTAINSANY(FIELDSTR(${1:field}),${2:ref1},${3:ref2})]]></content>
+	<tabTrigger>CONTAINSANY</tabTrigger>  
+	<description>EasyCatalog CONTAINSANY(FIELDSTR(field1),ref1,ref2)</description>
+	<scope>source.ecc</scope>
+</snippet>
