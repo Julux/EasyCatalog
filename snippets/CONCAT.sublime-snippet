@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[CONCAT(FIELDSTR(${1:field}),FIELDSTR(${2:field}),FIELDSTR(${3:field}))]]></content>
 	<tabTrigger>CONCAT</tabTrigger>  
-	<description>Easycatalog CONCAT(field1,,,)</description>
+	<description>EasyCatalog CONCAT(field1,,,)</description>
 	<scope>source.ecc</scope>
 </snippet>
