@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[CALLSCRIPT(${1:FormatPrice}.jsx)]]></content>
 	<tabTrigger>CALLSCRIPT</tabTrigger>  
-	<description>Easycatalog CALLSCRIPT(FormatPrice.jsx)</description>
+	<description>EasyCatalog CALLSCRIPT(FormatPrice.jsx)</description>
 	<scope>source.ecc</scope>
 </snippet>
