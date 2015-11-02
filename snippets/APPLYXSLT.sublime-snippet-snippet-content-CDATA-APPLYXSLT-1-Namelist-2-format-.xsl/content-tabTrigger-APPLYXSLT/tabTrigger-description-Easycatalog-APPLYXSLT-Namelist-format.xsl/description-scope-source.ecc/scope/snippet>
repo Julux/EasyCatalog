@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[APPLYXSLT(${1:Namelist},'${2:format}.xsl')]]></content>
-	<tabTrigger>APPLYXSLT</tabTrigger>  
-	<description>Easycatalog APPLYXSLT(Namelist,'format.xsl')</description>
-	<scope>source.ecc</scope>
-</snippet>
