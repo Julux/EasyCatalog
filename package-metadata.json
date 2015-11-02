@@ -4,5 +4,5 @@
 "dependencies": [], 
 "sublime_text": "*", 
 "version": "2015.11.02.01",
-"description": "EasyCatalog Files and Syntax plugin for Sublime Text"
+"description": "EasyCatalog syntax and functions from InDesign Plugin"
 }
