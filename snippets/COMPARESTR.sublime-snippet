@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[COMPARESTR(${1:Field},${2:Value},${3:ResultIfTRUE},${4:ResultIfFALSE})]]></content>
 	<tabTrigger>COMPARESTR</tabTrigger>  
-	<description>Easycatalog COMPARESTR(field, value, (optional)result if TRUE, (optional)result if FALSE)</description>
+	<description>EasyCatalog COMPARESTR(field, value, (optional)result if TRUE, (optional)result if FALSE)</description>
 	<scope>source.ecc</scope>
 </snippet>
