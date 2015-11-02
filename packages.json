@@ -1,0 +1,20 @@
+{
+  "schema_version": "1.0",
+  "packages": [
+    {
+      "name": "EasyCatalog",
+      "description": "EasyCatalog syntax and functions from EasyCatalog Plugin Indesign",
+      "author": "julux",
+      "homepage": "https://github.com/julux/EasyCatalog",
+      "last_modified": "2015-11-02 17:26:00",
+      "platforms": {
+        "*": [
+          {
+            "version": "1.0",
+            "url": "https://nodeload.github.com/julux/EasyCatalog/zip/1.0"
+          }
+        ]
+      }
+    }
+  ]
+}
