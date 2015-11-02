@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[AVG(${1:Value1},${2:Value2},${3:Value3})]]></content>
 	<tabTrigger>AVG</tabTrigger>  
-	<description>Easycatalog AVG(Value1,Value2,Value3)</description>
+	<description>EasyCatalog AVG(Value1,Value2,Value3)</description>
 	<scope>source.ecc</scope>
 </snippet>
