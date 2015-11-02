@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[CHAR(%${1:HexValue})]]></content>
 	<tabTrigger>CHAR</tabTrigger>  
-	<description>Easycatalog CHAR(%HexValue)</description>
+	<description>EasyCatalog CHAR(%HexValue)</description>
 	<scope>source.ecc</scope>
 </snippet>
