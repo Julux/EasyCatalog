@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[SUBSTR(PARTSTR(${1:field}),${2:index},"${3:separator}")]]></content>
+	<content><![CDATA[PARTSTR(${1:field},${2:index},"${3:separator}")]]></content>
 	<tabTrigger>PARTSTR</tabTrigger>
 	<description>Easycatalog PARTSTR(field,index(default is 0),"separator")</description>
 	<scope>source.ecc</scope>
