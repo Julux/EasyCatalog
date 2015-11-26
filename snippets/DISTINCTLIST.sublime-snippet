@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[DISTINCTLIST(${1:separator},FIELDSTR(${2:field}),FIELDSTR(${3:field}))]]></content>
+	<tabTrigger>DISTINCTLIST</tabTrigger>  
+	<description>Easycatalog DISTINCTLIST(separator,FIELDSTR(field1),FIELDSTR(field2))</description>
+	<scope>source.ecc</scope>
+</snippet>
