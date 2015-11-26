@@ -1,19 +1,20 @@
 {
-  "schema_version": "1.0",
-  "packages": [
-    {
-      "name": "EasyCatalog",
-      "description": "EasyCatalog syntax and functions from EasyCatalog language plugin",
-      "author": "julux",
-      "homepage": "https://github.com/julux/EasyCatalog",
-      "last_modified": "2015-11-26 10:00:00",
-      "platforms": {
-        "*": [
-          {
-            "version": "1.0",
-          }
-        ]
-      }
-    }
-  ]
+    "schema_version": "1.2",
+    "packages": [
+        {
+            "name": "EasyCatalog",
+            "description": "EasyCatalog syntax and functions from EasyCatalog language plugin",
+            "author": "julux",
+            "homepage": "https://github.com/julux/EasyCatalog",
+            "last_modified": "2013-11-26 10:15:00",
+            "platforms": {
+                "*": [
+                    {
+                        "version": "1.0",
+                        "url": "https://github.com/julux/EasyCatalog/archive/master.zip"
+                    }
+                ]
+            }
+        }
+    ]
 }
