@@ -1,6 +1,6 @@
 <snippet>
-	<content><![CDATA[COUNTOF(FIELDSTR(${1:field}),${2:separator})]]></content>
+	<content><![CDATA[COUNTOF(FIELDSTR(${1:field}),${2:string})]]></content>
 	<tabTrigger>COUNTOF</tabTrigger>  
-	<description>Easycatalog COUNTOF(FIELDSTR(field1),separator)</description>
+	<description>Easycatalog COUNTOF(FIELDSTR(field1),string)</description>
 	<scope>source.ecc</scope>
 </snippet>
