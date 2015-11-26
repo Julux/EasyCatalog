@@ -1,6 +1,6 @@
 <snippet>
-	<content><![CDATA[DISTINCTLIST(${1:ImageRef})]]></content>
-	<tabTrigger>DISTINCTLIST</tabTrigger>  
-	<description>Easycatalog DISTINCTLIST(ImageRef)</description>
+	<content><![CDATA[DOESIMAGEEXIST(${1:pathImageRef})]]></content>
+	<tabTrigger>DOESIMAGEEXIST</tabTrigger>  
+	<description>Easycatalog DOESIMAGEEXIST(pathImageRef)return boolean</description>
 	<scope>source.ecc</scope>
 </snippet>
