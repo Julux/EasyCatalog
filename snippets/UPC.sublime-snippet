@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[UPC(${1:barcode})]]></content>
+	<tabTrigger>EAN8</tabTrigger>
+	<description>Easycatalog UPC(barcode)</description>
+	<scope>source.ecc</scope>
+</snippet>
