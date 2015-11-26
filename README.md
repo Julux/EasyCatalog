@@ -6,7 +6,7 @@ EasyCatalog syntax function and snippets to Sublime Text with .ecc (EasyCatalog 
 With Package Control
 - Ctrl+Shift+P, choose "Install Package" and select EasyCatalog
 Manually
-- Ctrl+Shift+P, choose "add channel" and url of package.json.
+- Ctrl+Shift+P, choose "add channel" and add url of package.json.
 
 ## Using
 
