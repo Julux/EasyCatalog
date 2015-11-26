@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[CASE(FIELDSTR(${1:field}),${2:key1},${3:case1},${4:key2},${5:case2})]]></content>
-	<tabTrigger>AVG</tabTrigger>  
+	<tabTrigger>CASE</tabTrigger>  
 	<description>EasyCatalog CASE(field(value),key1,case1,key2,case2...)</description>
 	<scope>source.ecc</scope>
 </snippet>
