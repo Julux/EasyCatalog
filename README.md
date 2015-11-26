@@ -18,5 +18,7 @@ Manually
 
 - Snippets are essentials functions of calculated field in EasyCatalog Panel.
 
-- Comments are supported with //comment or /\*comment\*/ but not using in calculted field. 
+- Comments are supported 
+//comment or /\*comment\*/
+but not using in calculated field. 
 It's just easy to use, write and support Easycatalog calculated field.
