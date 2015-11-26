@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SNIPPETDEPTH(${1:path})]]></content>
+	<tabTrigger>SNIPPETDEPTH</tabTrigger>  
+	<description>Easycatalog SNIPPETDEPTH(path) return POINT</description>
+	<scope>source.ecc</scope>
+</snippet>
