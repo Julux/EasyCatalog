@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[MAX(${1:field},${2:field})]]></content>
+	<tabTrigger>MAX</tabTrigger>  
+	<description>EasyCatalog MAX(arg1,arg2,arg3...)</description>
+	<scope>source.ecc</scope>
+</snippet>
