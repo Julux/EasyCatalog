@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GROUPCOUNTUNIQUE(${1:GroupParent},"${1:String}")]]></content>
+	<tabTrigger>GROUPCOUNTUNIQUE</tabTrigger>
+	<description>Easycatalog GROUPCOUNTUNIQUE(GroupParent,String)</description>
+	<scope>source.ecc</scope>
+</snippet>
