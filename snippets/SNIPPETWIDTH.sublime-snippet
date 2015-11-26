@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[SNIPPETWIDTH(${1:path})]]></content>
+	<content><![CDATA[SNIPPETWIDTH(${1:path}.idms)]]></content>
 	<tabTrigger>SNIPPETWIDTH</tabTrigger>  
 	<description>Easycatalog SNIPPETWIDTH(path) return POINT</description>
 	<scope>source.ecc</scope>
