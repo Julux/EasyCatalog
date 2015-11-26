@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[REGEX(${1:stringSearch},${2:RegExpression},${1:stringReplace})]]></content>
+	<content><![CDATA[REGEX(${1:stringSearch},${2:RegExpression},${3:stringReplace})]]></content>
 	<tabTrigger>REGEX</tabTrigger>
 	<description>Easycatalog REGEX(stringSearch,RegExpression,stringReplace)</description>
 	<scope>source.ecc</scope>
