@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[SUB(${1:argument1},${2:argument2})]]></content>
-	<tabTrigger>AND</tabTrigger>
+	<tabTrigger>SUB</tabTrigger>
 	<description>Easycatalog SUB(argument1,argument2)</description>
 	<scope>source.ecc</scope>
 </snippet>
