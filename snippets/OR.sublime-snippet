@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[OR(${1:expression1},${2:expression2})]]></content>
+	<tabTrigger>OR</tabTrigger>
+	<description>EasyCatalog OR(expression1,expression2) return boolean</description>
+	<scope>source.ecc</scope>
+</snippet>
