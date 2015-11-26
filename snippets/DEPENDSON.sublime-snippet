@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[DEPENDSON(${1:fieldname})]]></content>
+	<tabTrigger>DEPENDSON</tabTrigger>  
+	<description>EasyCatalog DEPENDSON("Snippet Depth")</description>
+	<scope>source.ecc</scope>
+</snippet>
