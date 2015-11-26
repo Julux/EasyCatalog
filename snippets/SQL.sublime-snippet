@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[SQL(${1:SQLRequest})]]></content>
+	<tabTrigger>SQL</tabTrigger>  
+	<description>EasyCatalog SQL(SELECT...DBRequest)</description>
+	<scope>source.ecc</scope>
+</snippet>
