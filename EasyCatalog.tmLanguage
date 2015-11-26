@@ -60,12 +60,6 @@
 		</dict>
 		<dict>
 			<key>match</key>
-			<string>+</string>
-			<key>name</key>
-			<string>keyword.operator.ecc</string>
-		</dict>
-		<dict>
-			<key>match</key>
 			<string>%</string>
 			<key>name</key>
 			<string>keyword.operator.ecc</string>
