@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[URLENCODE(${1:string})]]></content>
+	<tabTrigger>URLENCODE</tabTrigger>  
+	<description>EasyCatalog URLENCODE(string)</description>
+	<scope>source.ecc</scope>
+</snippet>
