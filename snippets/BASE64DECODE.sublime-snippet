@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[BASE64DECODE(FIELDSTR(${1:field}))]]></content>
+	<tabTrigger>BASE64DECODE</tabTrigger>  
+	<description>EasyCatalog BASE64DECODE(FIELDSTR(field))</description>
+	<scope>source.ecc</scope>
+</snippet>
