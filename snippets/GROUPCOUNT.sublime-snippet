@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GROUPCOUNT(${1:GroupParent})]]></content>
+	<tabTrigger>GROUPCOUNT</tabTrigger>
+	<description>Easycatalog GROUPCOUNT(GroupParent)</description>
+	<scope>source.ecc</scope>
+</snippet>
