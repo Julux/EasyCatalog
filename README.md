@@ -2,7 +2,6 @@
 EasyCatalog syntax function and snippets to Sublime Text with .ecc (EasyCatalog Code extension files)
 
 ## Installing
-...in waiting "Package Control" validation...
 
 With Package Control
 - Ctrl+Shift+P, choose "Install Package" and select EasyCatalog
