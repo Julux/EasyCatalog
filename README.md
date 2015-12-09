@@ -3,6 +3,10 @@ EasyCatalog syntax function and snippets to Sublime Text with .ecc (EasyCatalog 
 
 ## Installing
 
+![Demo](http://i.imgur.com/DglodPG.gif)
+
+[img]http://i.imgur.com/DglodPG.gif[/img]
+
 With Package Control
 - Ctrl+Shift+P, choose "Install Package" and select EasyCatalog
 
