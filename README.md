@@ -3,10 +3,6 @@ EasyCatalog syntax function and snippets to Sublime Text with .ecc (EasyCatalog 
 
 ## Installing
 
-![Demo](http://i.imgur.com/DglodPG.gif)
-
-[img]http://i.imgur.com/DglodPG.gif[/img]
-
 With Package Control
 - Ctrl+Shift+P, choose "Install Package" and select EasyCatalog
 
@@ -25,3 +21,7 @@ Manually
 //comment or /\*comment\*/
 but not using in calculated field. 
 It's just easy to use, write and support Easycatalog calculated field.
+
+## Demo
+
+![Demo](http://i.imgur.com/DglodPG.gif)
