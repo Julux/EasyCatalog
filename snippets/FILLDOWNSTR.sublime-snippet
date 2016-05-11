@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[FILLDOWNSTR(${1:field},${2:sort})]]></content>
+	<tabTrigger>FILLDOWNSTR</tabTrigger>
+	<description>EasyCatalog FILLDOWNSTR(field,sorting)</description>
+	<scope>source.ecc</scope>
+</snippet>
