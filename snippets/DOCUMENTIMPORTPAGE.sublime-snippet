@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[DOCUMENTIMPORTPAGE(${1:pageNumber})]]></content>
+	<tabTrigger>DOCUMENTIMPORTPAGE</tabTrigger>  
+	<description>EasyCatalog DOCUMENTIMPORTPAGE(pageNumber)</description>
+	<scope>source.ecc</scope>
+</snippet>
