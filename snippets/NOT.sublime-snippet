@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[NOT(${1:field},${2:field})]]></content>
+	<tabTrigger>NOT</tabTrigger>
+	<description>Easycatalog NOT(field1,field2)</description>
+	<scope>source.ecc</scope>
+</snippet>
