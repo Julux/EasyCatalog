@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[RIGHTSTR(FIELDSTR(${1:field}),${2:CaractereBegin})]]></content>
+	<tabTrigger>RIGHTSTR</tabTrigger>
+	<description>Easycatalog RIGHTSTR(field1,CaractereBegin)</description>
+	<scope>source.ecc</scope>
+</snippet>
