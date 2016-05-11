@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GETBARCODEGLYPHS(FIELDSTR(${1:fontName})]]></content>
+	<tabTrigger>GETBARCODEGLYPHS</tabTrigger>
+	<description>Easycatalog GETBARCODEGLYPHS(fontName)</description>
+	<scope>source.ecc</scope>
+</snippet>
