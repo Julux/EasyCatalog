@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[DSSTATUS(${1:fieldName})]]></content>
+	<tabTrigger>DSSTATUS</tabTrigger>
+	<description>Easycatalog DSSTATUS(fieldName)</description>
+	<scope>source.ecc</scope>
+</snippet>
