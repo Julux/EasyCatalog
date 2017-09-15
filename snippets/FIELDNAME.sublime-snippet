@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[FIELDNAME()]]></content>
+	<content><![CDATA[FIELDNAME(${})]]></content>
 	<tabTrigger>FIELDNAME</tabTrigger>
 	<description>Easycatalog FIELDNAME() Just return fieldname</description>
 	<scope>source.ecc</scope>
