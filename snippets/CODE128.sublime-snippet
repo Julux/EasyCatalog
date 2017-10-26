@@ -1,6 +1,6 @@
 <snippet>
-	<content><![CDATA[CODE128(FIELDSTR(${1:Field}))]]></content>
+	<content><![CDATA[CODE128(FIELDSTR(${1:field}))]]></content>
 	<tabTrigger>CODE128</tabTrigger>  
-	<description>EasyCatalog CODE128(FIELDSTR(Field))</description>
+	<description>EasyCatalog CODE128(FIELDSTR(field))</description>
 	<scope>source.ecc</scope>
 </snippet>
