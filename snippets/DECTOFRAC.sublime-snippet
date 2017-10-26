@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[DECTOFRAC(${1:decimal},${2:TRUE/FALSE})]]></content>
 	<tabTrigger>DECTOFRAC</tabTrigger>  
-	<description>Easycatalog DECTOFRAC(decimal,TRUE/FALSE)</description>
+	<description>EasyCatalog DECTOFRAC(decimal,TRUE/FALSE)</description>
 	<scope>source.ecc</scope>
 </snippet>
