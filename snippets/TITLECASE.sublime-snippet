@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[TITLECASE(FIELDSTR(${1:field}))]]></content>
 	<tabTrigger>TITLECASE</tabTrigger>
-	<description>Easycatalog TITLECASE(FIELDSTR(field1))</description>
+	<description>EasyCatalog TITLECASE(FIELDSTR(field1))</description>
 	<scope>source.ecc</scope>
 </snippet>
