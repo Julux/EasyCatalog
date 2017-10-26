@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[GOOGLEQRCODEURL(${1:width},${2:height},${3:String})]]></content>
 	<tabTrigger>GOOGLEQRCODEURL</tabTrigger>  
-	<description>Easycatalog GOOGLEQRCODEURL(width,height,StringToGenerate)</description>
+	<description>EasyCatalog GOOGLEQRCODEURL(width,height,StringToGenerate)</description>
 	<scope>source.ecc</scope>
 </snippet>
