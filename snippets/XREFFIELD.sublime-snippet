@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[XREFFIELD(${1:field},FIELDSTR(${2:field}),${3:page})]]></content>
 	<tabTrigger>XREFFIELD</tabTrigger>  
-	<description>Easycatalog XREFFIELD(field1,FIELDSTR(field2),page)</description>
+	<description>EasyCatalog XREFFIELD(field1,FIELDSTR(field2),page)</description>
 	<scope>source.ecc</scope>
 </snippet>
