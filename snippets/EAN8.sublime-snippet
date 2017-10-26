@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[EAN8(${1:barcode})]]></content>
 	<tabTrigger>EAN8</tabTrigger>
-	<description>Easycatalog EAN8(barcode)</description>
+	<description>EasyCatalog EAN8(barcode)</description>
 	<scope>source.ecc</scope>
 </snippet>
