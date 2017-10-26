@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[CONTAINSALL(FIELDSTR(${1:field}),${2:ref1},${3:ref2})]]></content>
 	<tabTrigger>CONTAINSALL</tabTrigger>  
-	<description>Easycatalog CONTAINSALL(FIELDSTR(field1),ref1,ref2)</description>
+	<description>EasyCatalog CONTAINSALL(FIELDSTR(field1),ref1,ref2)</description>
 	<scope>source.ecc</scope>
 </snippet>
