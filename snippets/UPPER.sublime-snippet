@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[UPPER(FIELDSTR(${1:field}))]]></content>
 	<tabTrigger>UPPER</tabTrigger>
-	<description>Easycatalog UPPER(FIELDSTR(field1))</description>
+	<description>EasyCatalog UPPER(FIELDSTR(field1))</description>
 	<scope>source.ecc</scope>
 </snippet>
