@@ -70,6 +70,18 @@
 			<key>name</key>
 			<string>comment.block.ecc</string>
 		</dict>
+			<dict>
+			<key>match</key>
+			<string>\btrue|TRUE\b</string>
+			<key>name</key>
+			<string>constant.language.boolean.true.js</string>
+		</dict>
+		<dict>
+			<key>match</key>
+			<string>\bfalse|FALSE\b</string>
+			<key>name</key>
+			<string>constant.language.boolean.false.js</string>
+		</dict>
 	</array>
 	<key>scopeName</key>
 	<string>source.ecc</string>
