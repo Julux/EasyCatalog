@@ -74,13 +74,13 @@
 			<key>match</key>
 			<string>\btrue|TRUE\b</string>
 			<key>name</key>
-			<string>constant.language.boolean.true.js</string>
+			<string>constant.language.boolean.true.ecc</string>
 		</dict>
 		<dict>
 			<key>match</key>
 			<string>\bfalse|FALSE\b</string>
 			<key>name</key>
-			<string>constant.language.boolean.false.js</string>
+			<string>constant.language.boolean.false.ecc</string>
 		</dict>
 	</array>
 	<key>scopeName</key>
