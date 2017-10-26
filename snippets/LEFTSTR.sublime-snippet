@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[LEFTSTR(FIELDSTR(${1:field}),${2:CaractereEnd})]]></content>
 	<tabTrigger>LEFTSTR</tabTrigger>
-	<description>Easycatalog LEFTSTR(field1,CaractereEnd)</description>
+	<description>EasyCatalog LEFTSTR(field1,CaractereEnd)</description>
 	<scope>source.ecc</scope>
 </snippet>
