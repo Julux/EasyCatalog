@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[WORDWARP(FIELDSTR(${1:field}),${2:length},${3:breakChar})]]></content>
 	<tabTrigger>WORDWARP</tabTrigger>  
-	<description>Easycatalog WORDWARP(FIELDSTR(field1),length,breakChar)</description>
+	<description>EasyCatalog WORDWARP(FIELDSTR(field1),length,breakChar)</description>
 	<scope>source.ecc</scope>
 </snippet>
