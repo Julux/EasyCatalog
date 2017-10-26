@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[INDEXOF(${1:field},'${2:char}')]]></content>
 	<tabTrigger>INDEXOF</tabTrigger>
-	<description>Easycatalog INDEXOF(field1,'char')</description>
+	<description>EasyCatalog INDEXOF(field1,'char')</description>
 	<scope>source.ecc</scope>
 </snippet>
