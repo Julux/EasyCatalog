@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[GROUPSERIESONFIELDCHANGE(${1:GroupParent},${2:GroupChild},${3:StartIndex},${4:Increment})]]></content>
 	<tabTrigger>GROUPSERIESONFIELDCHANGE</tabTrigger>
-	<description>Easycatalog GROUPSERIESONFIELDCHANGE(GroupParent,GroupChild,StartIndex,Increment)</description>
+	<description>EasyCatalog GROUPSERIESONFIELDCHANGE(GroupParent,GroupChild,StartIndex,Increment)</description>
 	<scope>source.ecc</scope>
 </snippet>
