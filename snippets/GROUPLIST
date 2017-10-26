@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[GROUPLIST(${1:groupParent},${2:groupChild},${3:field},${4:beginSeperator},${5:inthemiddleSeparator},${6:lastSeparator})]]></content>
+	<tabTrigger>GROUPLIST</tabTrigger>
+	<description>EasyCatalog GROUPLIST(groupParent,groupChild,field,(option)beginSeperator,(option)inthemiddleSeparator,(option)lastSeparator)</description>
+	<scope>source.ecc</scope>
+</snippet>
