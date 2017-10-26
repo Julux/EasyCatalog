@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[LENGTH(FIELDSTR(${1:field}))]]></content>
 	<tabTrigger>LENGTH</tabTrigger>  
-	<description>Easycatalog LENGTH(FIELDSTR(field1))</description>
+	<description>EasyCatalog LENGTH(FIELDSTR(field1))</description>
 	<scope>source.ecc</scope>
 </snippet>
