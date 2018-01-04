@@ -1,3 +1,6 @@
+
+[![GitHub release](https://img.shields.io/github/release/qubyte/rubidium.svg)]()
+
 ## EasyCatalog
 EasyCatalog syntax function and snippets to Sublime Text 2/3 with .ecc (EasyCatalog Code extension files)
 
