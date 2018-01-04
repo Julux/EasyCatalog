@@ -1,7 +1,3 @@
-
-[![GitHub release](https://img.shields.io/github/release/ReactiveCocoa/ReactiveSwift.svg)](https://github.com/ReactiveCocoa/ReactiveSwift/releases) ![Swift 4.0](https://img.shields.io/badge/Swift-4.0-orange.svg) ![platforms](https://img.shields.io/badge/platform-iOS%20%7C%20macOS%20%7C%20tvOS%20%7C%20watchOS%20%7C%20Linux-lightgrey.svg)
-
-
 ## EasyCatalog
 EasyCatalog syntax function and snippets to Sublime Text 2/3 with .ecc (EasyCatalog Code extension files)
 
