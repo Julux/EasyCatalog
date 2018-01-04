@@ -1,5 +1,5 @@
 ## EasyCatalog
-[![GitHub release](https://img.shields.io/github/release/julux/easycatalog.svg)](https://github.com/julux/EasyCatalog/releases/tag/v1.0.3) [![Package Control](https://img.shields.io/packagecontrol/dt/EasyCatalog.svg)](https://packagecontrol.io/packages/EasyCatalog) [![license](https://img.shields.io/github/license/julux/easyCatalog.svg)](https://github.com/julux/EasyCatalog/blob/master/LICENSE)
+[![GitHub release](https://img.shields.io/github/release/julux/easycatalog.svg)](https://github.com/julux/EasyCatalog/releases/tag/v1.0.3)  [![Package Control](https://img.shields.io/packagecontrol/dt/EasyCatalog.svg)](https://packagecontrol.io/packages/EasyCatalog)  [![license](https://img.shields.io/github/license/julux/easyCatalog.svg)](https://github.com/julux/EasyCatalog/blob/master/LICENSE)
 
 EasyCatalog syntax function and snippets to Sublime Text 2/3 with .ecc (EasyCatalog Code extension files)
 
