@@ -1,9 +1,7 @@
 
 
 
-[![Package Control](https://img.shields.io/packagecontrol/dt/GitGutter.svg)]()
-
-[![GitHub release](https://img.shields.io/github/release/qubyte/rubidium.svg)](https://github.com/julux/EasyCatalog/releases)
+[![Package Control](https://img.shields.io/packagecontrol/dt/GitGutter.svg)](https://packagecontrol.io/packages/EasyCatalog) [![GitHub release](https://img.shields.io/github/release/qubyte/rubidium.svg)](https://github.com/julux/EasyCatalog/releases)
 
 
 ## EasyCatalog
