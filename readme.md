@@ -1,7 +1,6 @@
 ## EasyCatalog
 EasyCatalog syntax function and snippets to Sublime Text 2/3 with .ecc (EasyCatalog Code extension files)
 
-[![GitHub issue author](https://img.shields.io/github/issues/detail/u/badges/shields/979.svg)]()
 
 ## Installing
 
