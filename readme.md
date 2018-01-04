@@ -1,12 +1,5 @@
-
-
-![GitHub release](https://img.shields.io/github/release/julux/easycatalog.svg)]() ![Package Control](https://img.shields.io/packagecontrol/dt/EasyCatalog.svg)]()
-
-
-
-
-
 ## EasyCatalog
+![GitHub release](https://img.shields.io/github/release/julux/easycatalog.svg)] ![Package Control](https://img.shields.io/packagecontrol/dt/EasyCatalog.svg)]
 EasyCatalog syntax function and snippets to Sublime Text 2/3 with .ecc (EasyCatalog Code extension files)
 
 
